@@ -21,3 +21,4 @@ The queries constructed in this project indicated that there truly is a "silver 
 - Fortunately only two managers are retiring, minimizing need to train new leadership.
 - The number of employees eligible for the mentorship program are few (1549) in comparison to the number of employees retiring.
 
+### Summary ###
