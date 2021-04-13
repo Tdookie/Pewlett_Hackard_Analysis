@@ -22,3 +22,14 @@ The queries constructed in this project indicated that there truly is a "silver 
 - The number of employees eligible for the mentorship program are few (1549) in comparison to the number of employees retiring.
 
 ### Summary ###
+There are over 1500 "qualified, retirement-ready employees" for the mentorship program. However, without knowing how many locations these employees are spread over, it's hard to begin to design such a project. Location information was, unfortunately, not included in the original CSVs. Assuming even distribution across all offices and departments:
+
+- If PH attempted to fill all vacancies, there would be a 58:1 trainee to mentor ratio
+- If PH attempted to only fill 60% of the vacancies, it could reduce the trainee-to-mentor ratio to 35:1.
+Two additional tables that could prove useful in preparing for the coming "Silver Tsunami" are as follows:
+<img width="270" alt="Screen Shot 2021-04-13 at 1 43 04 AM" src="https://user-images.githubusercontent.com/77812423/114502326-99893480-9bf9-11eb-9472-79ec1aafb441.png">
+
+- A table showing how many employees are retiring by department, which indicates that Development and Production teams are going to see the biggest losses.
+<img width="263" alt="Screen Shot 2021-04-13 at 1 43 47 AM" src="https://user-images.githubusercontent.com/77812423/114502384-b291e580-9bf9-11eb-9a30-4a6f9639149a.png">
+
+- A table showing the total salaries of all the retiring employees. The grand total is in the billions. As long as PH spends less than this on hiring replacements, it's saved money.
